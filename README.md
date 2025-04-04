@@ -18,6 +18,12 @@
 
 <p align="center">A curated list of AI VTubers and their related projects</p>
 
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+</div>
+
 - [A](#a)
 
 ## A
