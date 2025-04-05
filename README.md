@@ -27,6 +27,11 @@
 ## Open Source Projects
 
 - [A](#a)
+- [E](#e)
+- [O](#o)
+- [S](#s)
+- [V](#v)
+- [Z](#z)
 
 ### A
 
