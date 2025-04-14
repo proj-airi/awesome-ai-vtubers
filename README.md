@@ -27,6 +27,7 @@
 ## Open Source Projects
 
 - [A](#a)
+- [B](#b)
 - [E](#e)
 - [M](#m)
 - [O](#o)
@@ -55,6 +56,10 @@
 - [semperai/amica](https://github.com/semperai/amica/)
 
   Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition. (MIT, TypeScript)
+
+- [Paraworks/BangDreamAi](https://github.com/Paraworks/BangDreamAi)
+
+  适用于2代live2d的Ai vtuber 适用于本地或网页部署
 
 ### E
 
