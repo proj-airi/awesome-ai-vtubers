@@ -28,6 +28,7 @@
 
 - [A](#a)
 - [E](#e)
+- [M](#m)
 - [O](#o)
 - [S](#s)
 - [V](#v)
@@ -60,6 +61,12 @@
 - [elizaOS/eliza](https://github.com/elizaOS/eliza)
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
+
+### M
+
+- [morettt/my-neuro](https://github.com/morettt/my-neuro)
+
+  这是一个属于你自己的 neuro-sama
 
 ### O
 
