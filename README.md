@@ -69,15 +69,13 @@
 
 ### M
 
-- [Moemu/Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot)
-
-  沐雪，一个会自动找你聊天的AI女孩子
-
-### M
-
 - [morettt/my-neuro](https://github.com/morettt/my-neuro)
 
   这是一个属于你自己的 neuro-sama
+
+- [Moemu/Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot)
+
+  沐雪，一个会自动找你聊天的AI女孩子
 
 ### O
 
