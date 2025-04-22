@@ -49,17 +49,19 @@
 
   AI Vtuber for Streaming on Youtube/Twitch. (Unlicensed, Python)
 
-- [kimjammer/Neuro](https://github.com/kimjammer/Neuro)
+- [swordswind/ai_virtual_mate_web](https://github.com/swordswind/ai_virtual_mate_web)
 
-  A recreation of Neuro-Sama originally created in 7 days. (MIT, Python)
+  AI虚拟伙伴 Web 版
 
 - [semperai/amica](https://github.com/semperai/amica/)
 
   Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition. (MIT, TypeScript)
 
+### B
+
 - [Paraworks/BangDreamAi](https://github.com/Paraworks/BangDreamAi)
 
-  适用于2代live2d的Ai vtuber 适用于本地或网页部署
+  适用于 2 代 Live2D 的 AI VTuber 适用于本地或网页部署
 
 ### E
 
@@ -71,11 +73,17 @@
 
 - [morettt/my-neuro](https://github.com/morettt/my-neuro)
 
-  这是一个属于你自己的 neuro-sama
+  这是一个属于你自己的 Neuro-sama
 
 - [Moemu/Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot)
 
-  沐雪，一个会自动找你聊天的AI女孩子
+  沐雪，一个会自动找你聊天的 AI 女孩子
+
+### N
+
+- [kimjammer/Neuro](https://github.com/kimjammer/Neuro)
+
+  A recreation of Neuro-Sama originally created in 7 days. (MIT, Python)
 
 ### O
 
