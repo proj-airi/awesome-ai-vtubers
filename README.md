@@ -67,6 +67,11 @@
 
   适用于 2 代 Live2D 的 AI VTuber 适用于本地或网页部署
 
+- [Bella](https://github.com/Jackywine/Bella)
+
+  Bella: 你的数字伴侣，正在唤醒
+  Basically a Grok Companion recreation.
+
 ### E
 
 - [elizaOS/eliza](https://github.com/elizaOS/eliza)
