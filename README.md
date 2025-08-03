@@ -77,6 +77,14 @@
 - [elizaOS/eliza](https://github.com/elizaOS/eliza)
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
+
+### L
+
+- [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat)
+
+  GPT chat with emotional expressions.
+
+  - Demo video: https://www.bilibili.com/video/BV1hW3LzGEz7/
   
 ### M
 
@@ -87,6 +95,10 @@
 - [Moemu/Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot)
 
   沐雪，一个会自动找你聊天的 AI 女孩子
+
+- [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine)
+
+  A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
 
 ### N
 
