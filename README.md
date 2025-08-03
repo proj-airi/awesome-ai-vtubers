@@ -117,3 +117,15 @@
 - [SugarcaneDefender/z-waif](https://github.com/SugarcaneDefender/z-waif)
 
   Fully local program to make your own AI waifu! Vtuber model, voice, ect. (MIT, Python)
+
+- [wehos/Xiao8](https://github.com/wehos/Xiao8)
+
+  Lanlan, a user-friendly, audio-native AI for all scenarios, ready to use in just 3 minutes.
+
+  - Demo video: https://www.bilibili.com/video/BV1mM32zXE46/
+
+- [ZcChat](https://github.com/Zao-chen/ZcChat)
+
+  一个模仿Galgame效果的AI桌宠 | An AI desktop pet that mimics the effects of a Galgame (C++)
+
+  - Demo video: https://www.bilibili.com/video/BV1hA9SYYEbb/
