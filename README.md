@@ -31,6 +31,7 @@
 - [E](#e)
 - [L](#l)
 - [M](#m)
+- [N](#n)
 - [O](#o)
 - [S](#s)
 - [V](#v)
@@ -107,6 +108,10 @@
 - [kimjammer/Neuro](https://github.com/kimjammer/Neuro)
 
   A recreation of Neuro-Sama originally created in 7 days. (MIT, Python)
+
+- [KroMiose/nekro-agent](https://github.com/KroMiose/nekro-agent)
+
+  一个面向事件 IO 流的由沙盒驱动的 Agent 中枢，其核心是通过强大灵活的提示词构建系统，引导 AI 生成代码并在安全的沙盒环境中执行从而对外产生响应行为。它通过原生的多平台适配器架构实现了强大的跨平台事件流处理能力，能够无缝支持 OneBot v11 (QQ群聊)、Discord、Minecraft 和 B站直播(可驱动Live2D形象进行演出) 等多种自定义平台。项目还拥有高度可扩展的插件系统、人设与插件共享生态，并支持在复杂的群聊多人交互场景中进行高效互动。目标是成为一个真正通用的 AI Agent 框架，让任何人都能快速搭建高度定制化的生产力和娱乐性兼备的超级中枢 AI！ (Apache-2.0, Python)
 
 ### O
 
