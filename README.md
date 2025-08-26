@@ -60,6 +60,10 @@
 
   AI虚拟伙伴 Web 版
 
+- [shinshin86/aituber-onair](https://github.com/shinshin86/aituber-onair)
+
+  AITuber OnAir — an open‑source monorepo for AITuber/AIVTuber streaming with packages for chat/LLM integration, multi‑engine TTS/voice, a WebSocket chat client, and a “kizuna” relationship system. (MIT, TypeScript)
+
 - [semperai/amica](https://github.com/semperai/amica/)
 
   Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition. (MIT, TypeScript)
