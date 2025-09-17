@@ -29,10 +29,12 @@
 - [A](#a)
 - [B](#b)
 - [E](#e)
+- [J](#j)
 - [L](#l)
 - [M](#m)
 - [N](#n)
 - [O](#o)
+- [R](#r)
 - [S](#s)
 - [V](#v)
 - [X](#x)
@@ -85,6 +87,12 @@
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
 
+### J
+
+- [limitcantcode/jaison-core](https://github.com/limitcantcode/jaison-core)
+
+  Configurable response server for Project J.A.I.son
+
 ### L
 
 - [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat)
@@ -122,6 +130,12 @@
 - [t41372/Open-LLM-VTuber](https://github.com/t41372/Open-LLM-VTuber)
 
   Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms. (MIT, Python, JavaScript)
+
+### R
+
+- [rayenfeng/riko_project](https://github.com/rayenfeng/riko_project)
+
+  The public version of the Riko Project
 
 ### S
 
