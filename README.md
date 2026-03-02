@@ -136,7 +136,7 @@
 
 - [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA)
 
-  A modular, fully autonomous AI VTuber engine built around a plugin skill system. Supports multiple LLM (Gemini, OpenAI, Groq, GLM) and TTS providers (EdgeTTS, Kokoro, Orpheus), long-term RAG memory via ChromaDB, Discord voice integration, an autonomous Minecraft agent, OBS control, and a React + FastAPI web dashboard. Designed for modularity and extensibility. (MIT, Python, JavaScript)
+  A modular, fully autonomous AI VTuber engine built around a plugin skill system. Supports multiple LLMs (Gemini, OpenAI, Groq, GLM) and TTS providers (EdgeTTS, Kokoro, Orpheus), long-term RAG memory via ChromaDB, Discord voice integration, an autonomous Minecraft agent, OBS control, and a React + FastAPI web dashboard. Designed for modularity and extensibility. (MIT, Python, JavaScript)
 
 ### R
 
