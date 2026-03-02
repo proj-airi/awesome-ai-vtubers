@@ -34,6 +34,7 @@
 - [M](#m)
 - [N](#n)
 - [O](#o)
+- [P](#p)
 - [R](#r)
 - [S](#s)
 - [V](#v)
@@ -130,6 +131,12 @@
 - [t41372/Open-LLM-VTuber](https://github.com/t41372/Open-LLM-VTuber)
 
   Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms. (MIT, Python, JavaScript)
+
+### P
+
+- [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA)
+
+  A modular, fully autonomous AI VTuber engine built around a plugin skill system. Supports multiple LLM (Gemini, OpenAI, Groq, GLM) and TTS providers (EdgeTTS, Kokoro, Orpheus), long-term RAG memory via ChromaDB, Discord voice integration, an autonomous Minecraft agent, OBS control, and a React + FastAPI web dashboard. Designed for modularity and extensibility. (MIT, Python, JavaScript)
 
 ### R
 
