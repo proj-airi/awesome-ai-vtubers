@@ -30,6 +30,7 @@
 - [B](#b)
 - [E](#e)
 - [J](#j)
+- [K](#k)
 - [L](#l)
 - [M](#m)
 - [N](#n)
@@ -93,6 +94,12 @@
 - [limitcantcode/jaison-core](https://github.com/limitcantcode/jaison-core)
 
   Configurable response server for Project J.A.I.son
+
+### K
+
+- [Kissable](https://kissable.app)
+
+  AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages. iOS + Web.
 
 ### L
 
