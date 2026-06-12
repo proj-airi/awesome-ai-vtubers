@@ -55,6 +55,10 @@
 
   I'm not Neuro-Sama, I'm an artificial intelligence created by DevPattarapong It is currently in development using OpenAI models and Live2D characters. (MIT, HTML, JavaScript)
 
+- [KKLL2025/AILiveVTuber-Stage](https://github.com/KKLL2025/AILiveVTuber-Stage)
+
+  A Bilibili-focused Live2D AI VTuber system with LLM-driven replies, emotional memory, multi-tier danmaku interaction, TTS voice output, and a custom broadcast stage UI. (MIT, Python)
+  
 - [ardha27/AI-Waifu-Vtuber](https://github.com/ardha27/AI-Waifu-Vtuber)
 
   AI Vtuber for Streaming on Youtube/Twitch. (Unlicensed, Python)
