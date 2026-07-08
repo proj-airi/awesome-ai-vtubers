@@ -29,6 +29,7 @@
 - [A](#a)
 - [B](#b)
 - [E](#e)
+- [G](#g)
 - [J](#j)
 - [L](#l)
 - [M](#m)
@@ -87,6 +88,12 @@
 - [elizaOS/eliza](https://github.com/elizaOS/eliza)
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
+
+### G
+
+- [Ghost Vessel](https://github.com/ghdtjrtka/ghost-vessel)
+
+  A monitor-resident, video-call-style avatar that fronts a local LLM agent (Hermes / OpenClaw, or anything). The agent's replies drive fine-grained facial emotion beats played from pre-rendered clips, so there is no runtime GPU cost for the avatar, plus a persistent mood/affinity system that sinks when scolded and brightens when praised. Local TTS out (Edge / Qwen3-TTS / MeloTTS / Piper) and VAD + faster-whisper STT in. Open-core engine; avatars are pure-data bundles (clips + persona + voice + emotion map) you build yourself. (MIT, Rust, Python, JavaScript)
 
 ### J
 
