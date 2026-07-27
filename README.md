@@ -39,6 +39,7 @@
 - [S](#s)
 - [V](#v)
 - [X](#x)
+- [Y](#y)
 - [Z](#z)
 
 ### A
@@ -163,6 +164,12 @@
   Lanlan, a user-friendly, audio-native AI for all scenarios, ready to use in just 3 minutes.
 
   - Demo video: https://www.bilibili.com/video/BV1mM32zXE46/
+
+### Y
+
+- [yuri-os/YuriOS](https://github.com/yuri-os/YuriOS)
+
+  An always-on, local-first AI companion runtime: a continuously running cognitive loop gives the character its own goals and lets it speak first instead of only replying when spoken to. VRM or Live2D body, voice in and out, memory kept as plain files on your own disk. (Apache-2.0, Python, JavaScript)
 
 ### Z
 
