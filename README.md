@@ -30,6 +30,7 @@
 - [B](#b)
 - [E](#e)
 - [J](#j)
+- [K](#k)
 - [L](#l)
 - [M](#m)
 - [N](#n)
@@ -93,6 +94,12 @@
 - [limitcantcode/jaison-core](https://github.com/limitcantcode/jaison-core)
 
   Configurable response server for Project J.A.I.son
+
+### K
+
+- [caelum0x/kamiko](https://github.com/caelum0x/kamiko)
+
+  A live, talkable 3D AI VTuber web app (voice chat, VRM avatar, emotion-driven expressions) at [kamiko.fun](https://kamiko.fun). Built on Amica's VTuber shell with some AIRI capabilities ported in. (MIT, TypeScript)
 
 ### L
 
