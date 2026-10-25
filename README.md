@@ -104,6 +104,10 @@
   
 ### M
 
+- [saya-ch/model-muses](https://github.com/saya-ch/model-muses)
+
+  22 个主流大模型与 AI 工具的拟人形象立绘（同一画师、同一画风、规格统一可横向对比），每张配一段对象本体的技术说明与协议授权，并附逐图版权溯源与官方链接索引
+
 - [morettt/my-neuro](https://github.com/morettt/my-neuro)
 
   这是一个属于你自己的 Neuro-sama
