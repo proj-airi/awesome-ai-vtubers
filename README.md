@@ -146,6 +146,10 @@
 
 ### S
 
+- [soulofswords/Sakura](https://github.com/soulofswords/Sakura)
+
+  A local-first AI character companion, VTuber studio and approval-based desktop agent. Renders Live2D, PMX and VRM characters, tracks face and body from a webcam or phone, speaks with on-device TTS, and runs on a local LLM by default with an optional cloud fallback. Windows, Android and macOS. (GPL-3.0, Python, Unity, C#)
+
 - [PeterH0323/Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales)
 
   Trending Selling LLM 🛒🎁, a selling LLM capable of explaining products based on the characteristics of the given product from the perspective of motivating the user's purchase intention. (AGPL, Python, Vue)
