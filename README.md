@@ -71,6 +71,10 @@
 
   Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition. (MIT, TypeScript)
 
+- [Animama](https://github.com/raymond-van/animama)
+
+  Open-source desktop AI companion: voice-chat with a 3D VRM avatar that moves with 300+ gestures and 24 emotions as it talks, and remembers past conversations. (AGPL-3.0, TypeScript)
+
 ### B
 
 - [Paraworks/BangDreamAi](https://github.com/Paraworks/BangDreamAi)
